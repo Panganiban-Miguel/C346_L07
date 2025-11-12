@@ -8,7 +8,7 @@ const styles = StyleSheet.create({
         justifyContent: 'space-around',
         alignItems: 'center',
         backgroundColor: 'whitesmoke',
-        marginTop: 10
+        marginTop: 30
     },
     child: {
         height: 80,
