@@ -7,6 +7,7 @@ import Exercise3B from "./Exercise3B";
 import Exercise3C from "./Exercise3C";
 import Exercise3D from "./Exercise3D";
 import Exercise3E from "./Exercise3E";
+import Exercise4 from "./Exercise4";
 
 const MyApp = () => {
     return (
@@ -41,6 +42,9 @@ const MyApp = () => {
 
             <Exercise3E />
 
+            <Text style={{fontSize:20}}>Ex4</Text>
+
+            <Exercise4 />
         </ScrollView>
     )
 }
