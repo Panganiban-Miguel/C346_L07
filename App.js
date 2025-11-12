@@ -10,7 +10,7 @@ import Exercise3E from "./Exercise3E";
 
 const MyApp = () => {
     return (
-        <ScrollView style={{marginTop:50, flex:1}}>
+        <ScrollView style={{marginTop:50, marginBottom: 50, flex:1}}>
             <Text style={{fontSize:30}}>Lesson 7 Exercises</Text>
 
             <Text style={{fontSize:20}}>Ex1</Text>
